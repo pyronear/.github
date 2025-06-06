@@ -1,5 +1,5 @@
 
-<img id="pyronear-solution-overview" alt="image" src="https://media.licdn.com/dms/image/v2/C4D1BAQGlQb0ZnK4a7A/company-background_10000/company-background_10000/0/1650398222127/pyronearfr_cover?e=1747692000&v=beta&t=jrs8zdMyTeBDtDAEUnUpU1RSgTY4CO2ov11OdtAHHoY">
+<img id="pyronear-solution-overview" alt="image" src="./content/images/pyronearfr_cover.jpeg">
 
 <br>
 
