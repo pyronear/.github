@@ -46,7 +46,7 @@ Our mission is to help create a world where accessible and sustainable technolog
 
 * Pyronear platform back-end [ FastAPI | PostgreSQL | Docker] &rarr; [repository](https://github.com/pyronear/pyro-api) and [issues](https://github.com/pyronear/pyro-api/issues)
 
-* Platform development environment [ Docker | Localstack ] &rarr; [repository](https://github.com/pyronear/pyro-envdev) and [issues](https://github.com/pyronear/pyro-envdev/issues)
+* Platform development environment [ Docker | MinIO ] &rarr; [repository](https://github.com/pyronear/pyro-envdev) and [issues](https://github.com/pyronear/pyro-envdev/issues)
 
 </p> 
 
