@@ -42,7 +42,7 @@ Our mission is to help create a world where accessible and sustainable technolog
 
 <p>
 
-* Pyronear platform front-end [ Dash | Docker] &rarr; [repository](https://github.com/pyronear/pyro-platform) and [issues](https://github.com/pyronear/pyro-platform/issues)
+* Pyronear platform front-end [ TypeScript | React ] &rarr; [repository](https://github.com/pyronear/new-pyro-platform) and [issues](https://github.com/pyronear/new-pyro-platform/issues)
 
 * Pyronear platform back-end [ FastAPI | PostgreSQL | Docker] &rarr; [repository](https://github.com/pyronear/pyro-api) and [issues](https://github.com/pyronear/pyro-api/issues)
 
